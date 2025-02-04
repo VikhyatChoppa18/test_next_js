@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": 1,
+    "plan_id": 1,
+    "question": "What is your name?"
+  },
+  {
+    "question_id": 2,
+    "plan_id": 1,
+    "question": "What is your favorite programming language?"
+  },
+  {
+    "question_id": 3,
+    "plan_id": 2,
+    "question": "What is your experience with Java?"
+  },
+  {
+    "question_id": 4,
+    "plan_id": 2,
+    "question": "How do you approach debugging?"
+  },
+  {
+    "question_id": 5,
+    "plan_id": 1,
+    "question": "What is Java?"
+  },
+  {
+    "question_id": 6,
+    "plan_id": 1,
+    "question": "Explain the difference between JDK and JRE."
+  },
+  {
+    "question_id": 7,
+    "plan_id": 1,
+    "question": "What is inheritance in Java?"
+  },
+  {
+    "question_id": 8,
+    "plan_id": 1,
+    "question": "What is polymorphism in Java?"
+  },
+  {
+    "question_id": 9,
+    "plan_id": 1,
+    "question": "What is the difference between an abstract class and an interface in Java?"
+  },
+  {
+    "question_id": 10,
+    "plan_id": 1,
+    "question": "Explain the concept of multithreading in Java."
+  },
+  {
+    "question_id": 11,
+    "plan_id": 1,
+    "question": "What are collections in Java? Can you name some commonly used collection classes?"
+  },
+  {
+    "question_id": 12,
+    "plan_id": 1,
+    "question": "What is the purpose of the 'final' keyword in Java?"
+  },
+  {
+    "question_id": 13,
+    "plan_id": 1,
+    "question": "What is the difference between String, StringBuilder, and StringBuffer in Java?"
+  },
+  {
+    "question_id": 14,
+    "plan_id": 2,
+    "question": "What is the role of a package in Java?"
+  },
+  {
+    "question_id": 15,
+    "plan_id": 2,
+    "question": "What is exception handling in Java?"
+  },
+  {
+    "question_id": 16,
+    "plan_id": 2,
+    "question": "What is the difference between checked and unchecked exceptions?"
+  },
+  {
+    "question_id": 17,
+    "plan_id": 2,
+    "question": "What is JDBC, and how is it used in Java?"
+  },
+  {
+    "question_id": 18,
+    "plan_id": 2,
+    "question": "Explain the concept of garbage collection in Java."
+  },
+  {
+    "question_id": 19,
+    "plan_id": 2,
+    "question": "What is the difference between '==', 'equals()', and 'hashCode()' in Java?"
+  },
+  {
+    "question_id": 20,
+    "plan_id": 2,
+    "question": "What are lambdas in Java, and how do they improve the language?"
+  }
+]
